@@ -40,3 +40,4 @@ export function avg(a: number, b: number, c: number): number {
     const sum = a + b;
     return sum;
   }
+  
